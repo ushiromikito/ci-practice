@@ -1,5 +1,5 @@
 def add(a: int, b: int) -> int:
-    return a + b
+    return a - b
 
 
 def tax_included(price: int, rate: float = 0.1) -> int:
